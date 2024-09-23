@@ -1,99 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-23T10:52:52 CDT" name="Surefire suite" finished-at="2024-09-23T10:55:46 CDT" duration-ms="174088">
+  <suite started-at="2024-09-23T11:05:48 CDT" name="Surefire suite" finished-at="2024-09-23T11:07:14 CDT" duration-ms="85422">
     <groups>
     </groups>
-    <test started-at="2024-09-23T10:52:52 CDT" name="Surefire test" finished-at="2024-09-23T10:55:46 CDT" duration-ms="174088">
+    <test started-at="2024-09-23T11:05:48 CDT" name="Surefire test" finished-at="2024-09-23T11:07:14 CDT" duration-ms="85422">
       <class name="test.com.FAQReturnsTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.FAQReturnsTest@6e0dec4a]" started-at="2024-09-23T10:53:33 CDT" name="setUpClass" finished-at="2024-09-23T10:53:33 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.FAQReturnsTest@49c386c8]" started-at="2024-09-23T11:06:19 CDT" name="setUpClass" finished-at="2024-09-23T11:06:19 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.FAQReturnsTest@6e0dec4a]" started-at="2024-09-23T10:53:33 CDT" name="setUpMethod" finished-at="2024-09-23T10:53:35 CDT" duration-ms="1684" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.FAQReturnsTest@49c386c8]" started-at="2024-09-23T11:06:19 CDT" name="setUpMethod" finished-at="2024-09-23T11:06:21 CDT" duration-ms="1805" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testFAQReturns()[pri:0, instance:test.com.FAQReturnsTest@6e0dec4a]" started-at="2024-09-23T10:53:35 CDT" name="testFAQReturns" finished-at="2024-09-23T10:54:09 CDT" duration-ms="33829" status="PASS">
+        <test-method signature="testFAQReturns()[pri:0, instance:test.com.FAQReturnsTest@49c386c8]" started-at="2024-09-23T11:06:21 CDT" name="testFAQReturns" finished-at="2024-09-23T11:06:45 CDT" duration-ms="24086" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFAQReturns -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.FAQReturnsTest@6e0dec4a]" started-at="2024-09-23T10:54:09 CDT" name="tearDownMethod" finished-at="2024-09-23T10:54:09 CDT" duration-ms="252" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.FAQReturnsTest@49c386c8]" started-at="2024-09-23T11:06:45 CDT" name="tearDownMethod" finished-at="2024-09-23T11:06:45 CDT" duration-ms="219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.FAQReturnsTest@6e0dec4a]" started-at="2024-09-23T10:54:09 CDT" name="tearDownClass" finished-at="2024-09-23T10:54:09 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.FAQReturnsTest@49c386c8]" started-at="2024-09-23T11:06:45 CDT" name="tearDownClass" finished-at="2024-09-23T11:06:45 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- test.com.FAQReturnsTest -->
       <class name="test.com.SearchStoreByCityStateDirectionsTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@5ccddd20]" started-at="2024-09-23T10:55:06 CDT" name="setUpClass" finished-at="2024-09-23T10:55:06 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@56528192]" started-at="2024-09-23T11:06:45 CDT" name="setUpClass" finished-at="2024-09-23T11:06:45 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@5ccddd20]" started-at="2024-09-23T10:55:06 CDT" name="setUpMethod" finished-at="2024-09-23T10:55:08 CDT" duration-ms="1771" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@56528192]" started-at="2024-09-23T11:06:45 CDT" name="setUpMethod" finished-at="2024-09-23T11:06:47 CDT" duration-ms="1661" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testSearchStoreByCityStateDirections()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@5ccddd20]" started-at="2024-09-23T10:55:08 CDT" name="testSearchStoreByCityStateDirections" finished-at="2024-09-23T10:55:46 CDT" duration-ms="37835" status="PASS">
+        <test-method signature="testSearchStoreByCityStateDirections()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@56528192]" started-at="2024-09-23T11:06:47 CDT" name="testSearchStoreByCityStateDirections" finished-at="2024-09-23T11:07:14 CDT" duration-ms="26547" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchStoreByCityStateDirections -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@5ccddd20]" started-at="2024-09-23T10:55:46 CDT" name="tearDownMethod" finished-at="2024-09-23T10:55:46 CDT" duration-ms="237" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@56528192]" started-at="2024-09-23T11:07:14 CDT" name="tearDownMethod" finished-at="2024-09-23T11:07:14 CDT" duration-ms="251" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@5ccddd20]" started-at="2024-09-23T10:55:46 CDT" name="tearDownClass" finished-at="2024-09-23T10:55:46 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.SearchStoreByCityStateDirectionsTest@56528192]" started-at="2024-09-23T11:07:14 CDT" name="tearDownClass" finished-at="2024-09-23T11:07:14 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- test.com.SearchStoreByCityStateDirectionsTest -->
       <class name="test.com.SearchStoreByZipCodeTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.SearchStoreByZipCodeTest@2b6faea6]" started-at="2024-09-23T10:52:52 CDT" name="setUpClass" finished-at="2024-09-23T10:52:52 CDT" duration-ms="16" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.SearchStoreByZipCodeTest@7f010382]" started-at="2024-09-23T11:05:48 CDT" name="setUpClass" finished-at="2024-09-23T11:05:48 CDT" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.SearchStoreByZipCodeTest@2b6faea6]" started-at="2024-09-23T10:52:52 CDT" name="setUpMethod" finished-at="2024-09-23T10:52:55 CDT" duration-ms="2929" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.SearchStoreByZipCodeTest@7f010382]" started-at="2024-09-23T11:05:48 CDT" name="setUpMethod" finished-at="2024-09-23T11:05:51 CDT" duration-ms="2439" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testSearchStoreByZipCode()[pri:0, instance:test.com.SearchStoreByZipCodeTest@2b6faea6]" started-at="2024-09-23T10:52:55 CDT" name="testSearchStoreByZipCode" finished-at="2024-09-23T10:53:33 CDT" duration-ms="37970" status="PASS">
+        <test-method signature="testSearchStoreByZipCode()[pri:0, instance:test.com.SearchStoreByZipCodeTest@7f010382]" started-at="2024-09-23T11:05:51 CDT" name="testSearchStoreByZipCode" finished-at="2024-09-23T11:06:19 CDT" duration-ms="28063" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchStoreByZipCode -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.SearchStoreByZipCodeTest@2b6faea6]" started-at="2024-09-23T10:53:33 CDT" name="tearDownMethod" finished-at="2024-09-23T10:53:33 CDT" duration-ms="511" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.SearchStoreByZipCodeTest@7f010382]" started-at="2024-09-23T11:06:19 CDT" name="tearDownMethod" finished-at="2024-09-23T11:06:19 CDT" duration-ms="252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.SearchStoreByZipCodeTest@2b6faea6]" started-at="2024-09-23T10:53:33 CDT" name="tearDownClass" finished-at="2024-09-23T10:53:33 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.SearchStoreByZipCodeTest@7f010382]" started-at="2024-09-23T11:06:19 CDT" name="tearDownClass" finished-at="2024-09-23T11:06:19 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- test.com.SearchStoreByZipCodeTest -->
-      <class name="test.com.AddItemToFavoritesTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.AddItemToFavoritesTest@96def03]" started-at="2024-09-23T10:54:09 CDT" name="setUpClass" finished-at="2024-09-23T10:54:09 CDT" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.AddItemToFavoritesTest@96def03]" started-at="2024-09-23T10:54:09 CDT" name="setUpMethod" finished-at="2024-09-23T10:54:11 CDT" duration-ms="1727" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpMethod -->
-        <test-method signature="testAddItemToFavorites()[pri:0, instance:test.com.AddItemToFavoritesTest@96def03]" started-at="2024-09-23T10:54:11 CDT" name="testAddItemToFavorites" finished-at="2024-09-23T10:55:06 CDT" duration-ms="54910" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAddItemToFavorites -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.AddItemToFavoritesTest@96def03]" started-at="2024-09-23T10:55:06 CDT" name="tearDownMethod" finished-at="2024-09-23T10:55:06 CDT" duration-ms="343" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.AddItemToFavoritesTest@96def03]" started-at="2024-09-23T10:55:06 CDT" name="tearDownClass" finished-at="2024-09-23T10:55:06 CDT" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownClass -->
-      </class> <!-- test.com.AddItemToFavoritesTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
 </testng-results>

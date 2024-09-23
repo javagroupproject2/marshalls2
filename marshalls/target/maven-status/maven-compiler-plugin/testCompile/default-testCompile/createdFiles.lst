@@ -1,4 +1,3 @@
-test\com\FAQReturnsTest.class
-test\com\AddItemToFavoritesTest.class
 test\com\SearchStoreByCityStateDirectionsTest.class
+test\com\FAQReturnsTest.class
 test\com\SearchStoreByZipCodeTest.class
