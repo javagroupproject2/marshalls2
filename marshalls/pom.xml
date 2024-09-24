@@ -6,7 +6,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <dependencies>
-         <dependency>
+        <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>7.10.2</version>
@@ -24,4 +24,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.group2.java.marshalls.Marshalls</exec.mainClass>
     </properties>
+    
 </project>
